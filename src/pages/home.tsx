@@ -168,7 +168,7 @@ export default function Home() {
           <img
             src={storefrontImg}
             alt="Medicure Clinic storefront"
-            className="w-full h-full object-cover object-center"
+            className="w-full h-full object-cover object-[center_top] md:object-center"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-[#0D2236]/90 via-[#0D2236]/55 to-[#0D2236]/20" />
         </div>
